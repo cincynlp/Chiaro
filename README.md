@@ -9,6 +9,8 @@ emotion per agent (one positive, one negative) from situational context alone. N
 affect words appear in any sentence. The benchmark is grounded in appraisal theory and fully
 human-annotated (two independent annotators plus adjudication, κ̄ = 0.827).
 
+Paper is released at: https://arxiv.org/pdf/2609.03394
+
 This repository contains everything needed to **re-evaluate, re-train, or regenerate** the
 benchmark:
 
