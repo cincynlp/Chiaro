@@ -3,6 +3,8 @@
 **Chiaroscuro for Emotions: A Contrastive Emotion Benchmark Grounded in Appraisal Theory**
 Divyesh Bommana, Mohammad Saim, Tianyu Jiang
 
+**Paper:** [arXiv:2609.03394](https://arxiv.org/abs/2609.03394) (EMNLP 2026, Main Conference)
+
 CHIARO is a 1,000-sentence benchmark for *contrastive emotion inference*: each sentence
 describes one shared event involving two agents, and the task is to predict one fine-grained
 emotion per agent (one positive, one negative) from situational context alone. No explicit
